@@ -6,6 +6,11 @@ end
 
 
 ###  WRITE YOUR TEST CODE HERE ###
+alex = Author.new("Alex")
+leo = Article.new("Ton", "Leo", "Code")
+p alex.name 
+p leo
+
 
 
 
